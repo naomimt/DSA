@@ -1,4 +1,4 @@
 print('hellow world!!')
 myname = "naomi"
 
-print('meow')
+print('meow from gui')
