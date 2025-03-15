@@ -8,8 +8,8 @@ using namespace std;
 int main()
 {
     // welcome msgs
-    cout << "text here";
-    cout << "another text here";
+    cout << "Hello, this program will analayze product sales and inventory.";
+    cout << "C++ is a compiled language.";
 
     const float TAX_RATE_ = 0.1;
 
